@@ -11,7 +11,7 @@ git init<br>
 Initialized empty Git repository in Desktop/module-git/
 <h3>4. Додавання нових файлів до git</h3>
 git add (файл) first-file.txt
-<h3>5. Поточний статус git/h3>
+<h3>5. Поточний статус git</h3>
 git status
 <h3>6. Збереження змін у комітах</h3>
 git commit
